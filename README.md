@@ -11,7 +11,7 @@ Activos:
 
 **Lista de materias**
 
-- Sonido Digital  1
+- Sonido Digital  
 - Hojas de estilos.....
 - Diseño de espacios
 - Videojuegos

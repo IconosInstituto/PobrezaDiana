@@ -1,5 +1,6 @@
 # Pobreza
-## Porecto Integrador:
+## Porecto Integrador
+---
 
 Activos:
 -Museo
@@ -7,7 +8,7 @@ Activos:
 -Infografía animada
 -Logotipo
 
-
+---
 
 **Lista de materias**
 

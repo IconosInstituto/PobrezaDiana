@@ -1,12 +1,12 @@
 # Pobreza
-## Porecto Integrador
+## Proyecto Integrador
 ---
 
 Activos:
--Museo
--Videojuego
--Infografía animada
--Logotipo
+- Museo
+- Videojuego
+- Infografía animada
+- Logotipo
 
 ---
 

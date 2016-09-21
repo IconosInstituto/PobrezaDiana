@@ -1,2 +1,4 @@
-# PobrezaDiana
-Poyecto Integrador sobre clase 1 de web en la materia CSS
+# Pobreza
+## Porecto Integrador:
+
+El objetivo de este proyecto es realizar un museo

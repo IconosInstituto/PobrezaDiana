@@ -21,3 +21,8 @@ Activos:
 
 
 LINK: https://www.figma.com/file/DPjsbCZefECKmjvvDW1ieYxL/123
+
+
+# Personaje
+
+![Personaje](personaje.jpg)
